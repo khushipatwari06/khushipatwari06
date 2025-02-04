@@ -1,9 +1,11 @@
 ## 👋 Hello, I'm Khushi Patwari!
-
 🚀 **BTech CSE |Tech Enthusiast | Coder | Developer**  
 💡 Passionate about Problem Solving, Algorithms, and Software Development
 📚 3rd Year Student at SRM University  
 
+<div style="text-align: right;">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="My GIF" width="200" style="float: right; margin-left: 10px;"/>
+</div>
 
 ### 🔧 Technologies & Skills:
 
@@ -22,10 +24,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** TensorFlow, PyTorch, Flask, React
-- **Databases:** MySQL, MongoDB
-- **Other:** Git,Linux
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p><strong>Languages:</strong> Python, JavaScript, C++</p>
+    <p><strong>Frameworks:</strong> TensorFlow, PyTorch, Flask, React </p>  
+    <p><strong>Databases:</strong> MySQL, MongoDB</p>
+    <p><strong>Other:</strong> Git, Docker, Linux</p>
+  </div>
+
+</div>
+
+
 
 ### 🌱 Current Projects:
 - 🧠 **Dyslexia Detection using Machine Learning** – A model to detect dyslexia using AI. [View Repository](https://github.com/khushipatwari06/DYSLEXIA_DETECTION-MACHINE-LEARNING)
