@@ -3,10 +3,6 @@
 💡 Passionate about Problem Solving, Algorithms, and Software Development
 📚 3rd Year Student at SRM University  
 
-<div style="text-align: right;">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="My GIF" width="200" style="float: right; margin-left: 10px;"/>
-</div>
-
 ### 🔧 Technologies & Skills:
 
 <p align="left">
@@ -45,9 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-patwari-789ab9273/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushipatwari06)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khushi_patwari_06/)  
-
-### 🏆 GitHub Stats:
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushipatwari06&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushipatwari06&layout=compact&theme=radical)
 
